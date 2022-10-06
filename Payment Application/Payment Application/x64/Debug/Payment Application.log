@@ -1,0 +1,5 @@
+﻿  terminal.c
+D:\EGY-FWD Projects\pay_APP\Payment Application\Payment Application\terminal\terminal.c(23,15): warning C4267: '=': conversion from 'size_t' to 'uint8', possible loss of data
+D:\EGY-FWD Projects\pay_APP\Payment Application\Payment Application\terminal\terminal.c(43,9): warning C4267: '=': conversion from 'size_t' to 'uint8', possible loss of data
+D:\EGY-FWD Projects\pay_APP\Payment Application\Payment Application\terminal\terminal.c(63,15): warning C4013: 'charToInt' undefined; assuming extern returning int
+  Payment Application.vcxproj -> D:\EGY-FWD Projects\pay_APP\Payment Application\x64\Debug\Payment Application.exe
